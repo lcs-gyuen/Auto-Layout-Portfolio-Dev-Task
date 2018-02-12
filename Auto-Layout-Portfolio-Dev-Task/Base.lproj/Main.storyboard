@@ -58,9 +58,10 @@
                             <constraint firstItem="AnV-fS-Chr" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" id="gof-TM-vKt"/>
                             <constraint firstItem="pzS-78-RSg" firstAttribute="leading" secondItem="Xth-Tl-zEx" secondAttribute="trailing" id="jxz-Z8-gbH"/>
                             <constraint firstItem="Xth-Tl-zEx" firstAttribute="height" secondItem="iXN-bj-oT3" secondAttribute="height" id="k33-iS-F9d"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="leading" secondItem="miO-jK-Pqk" secondAttribute="leading" id="kDh-ZO-4dO"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="top" secondItem="miO-jK-Pqk" secondAttribute="top" constant="10" id="lJD-3t-elY"/>
                             <constraint firstItem="iXN-bj-oT3" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="oYC-2c-uUy"/>
                             <constraint firstItem="miO-jK-Pqk" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" multiplier="1:3" id="qD2-r2-EPB"/>
+                            <constraint firstItem="miO-jK-Pqk" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="r64-zZ-9RL"/>
                             <constraint firstItem="Xth-Tl-zEx" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="z5i-Rv-q9B"/>
                             <constraint firstItem="Xth-Tl-zEx" firstAttribute="width" secondItem="iXN-bj-oT3" secondAttribute="width" id="zUv-Ua-XtH"/>
                             <constraint firstItem="AnV-fS-Chr" firstAttribute="bottom" secondItem="8bC-Xf-vdC" secondAttribute="bottom" id="zuF-5t-NSL"/>
